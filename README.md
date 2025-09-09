@@ -1,46 +1,39 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Esther Makandah, MBA
 
-[![Your GitHub Banner](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Your+GitHub+Banner)](https://yourportfolio.com)
+[![GitHub Banner](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Esther+Makandah%2C+MBA%20%7C%20International+Trade%2C+Market+Access%2C+Nation+Branding)](https://yourportfolio.com)
 
-### 👨‍💻 About Me
-I'm a **[Your Role, e.g., Full-Stack Developer, Data Scientist, DevOps Engineer]** with a passion for **[Your Interests, e.g., open-source, AI, web development]**. I love building **[what you love building, e.g., scalable web apps, data pipelines, automation tools]**.
+### 👩‍💼 About Me
+I’m a **Marketing & International Trade Professional** with over a decade of experience in **branding, market access, stakeholder relationship management, and nation branding**. Passionate about driving **economic growth through exports, trade linkages, and strategic partnerships**, I specialize in connecting businesses to global opportunities and enhancing national competitiveness.
 
-- 🌍 Based in **[Your Location]**
-- 🎓 Studied **[Your Degree/Field]** at **[Your University]**
-- 💼 Currently working at **[Your Company]** or **[Your Current Project]**
-- 🔭 I’m exploring **[Technologies/Fields You're Exploring]**
-- 📫 How to reach me: **[Your Email]** | **[Your LinkedIn](https://linkedin.com/in/yourprofile)** | **[Your Twitter](https://twitter.com/yourhandle)**
+- 🌍 Based in **Nairobi, Kenya**
+- 🎓 **MBA** with expertise in **International Trade & Market Access**
+- 💼 Focused on **export promotion, stakeholder engagement, and nation branding initiatives**
+- 🔭 Exploring **digital transformation in trade, data-driven market insights, and sustainable business models**
+- 📫 How to reach me: [Email] | [LinkedIn](https://www.linkedin.com/in/esther-makandah-mba-3b9901133)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech & Professional Stack
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+#### Business & Analytics
+![Market Research](https://img.shields.io/badge/-Market_Research-4285F4?style=flat&logo=google-scholar&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/-Stakeholder_Management-0078D4?style=flat&logo=microsoft-excel&logoColor=white)
+![Trade Policy](https://img.shields.io/badge/-Trade_Policy-0066CC?style=flat&logo=united-nations&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6F61?style=flat&logo=tableau&logoColor=white)
 
 #### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![CRM Software](https://img.shields.io/badge/-CRM_Software-00D4AA?style=flat&logo=salesforce&logoColor=white)
+![Project Management](https://img.shields.io/badge/-Project_Management-1572B6?style=flat&logo=trello&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stars | Forks |
-|---------|-------------|-------|-------|
-| **[Project 1](https://github.com/yourusername/project1)** | A brief description of your project. | ![GitHub stars](https://img.shields.io/github/stars/yourusername/project1?style=social) | ![GitHub forks](https://img.shields.io/github/forks/yourusername/project1?style=social) |
-| **[Project 2](https://github.com/yourusername/project2)** | A brief description of your project. | ![GitHub stars](https://img.shields.io/github/stars/yourusername/project2?style=social) | ![GitHub forks](https://img.shields.io/github/forks/yourusername/project2?style=social) |
+| Project                     | Description                                                                                     | Impact                                      |
+|-----------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **[Market Access Initiative](#)** | Facilitated entry for Kenyan SMEs into regional and international markets through trade agreements and partnerships. | Increased export volumes by 20% for participating businesses. |
+| **[Nation Branding Campaign](#)**  | Led a campaign to position Kenya as a competitive trade and investment hub in East Africa.       | Enhanced visibility and attracted FDI in key sectors. |
 
 ---
 
@@ -51,26 +44,12 @@ I'm a **[Your Role, e.g., Full-Stack Developer, Data Scientist, DevOps Engineer]
 
 ---
 
-### 🎧 Currently Listening To
-
-[![Spotify](https://novatorem-kyzbk7wxlbardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
----
-
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://yourportfolio.com)
-
----
-
-### ❤️ Open Source Contributions
-I contribute to open-source projects like **[Project Name](https://github.com/project/repo)**. Feel free to check out my **[GitHub contributions](https://github.com/yourusername)**!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-makandah-mba-3b9901133)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 ### 💬 Quote of the Day
-> "Talk is cheap. Show me the code." — Linus Torvalds
-
----
+> "Trade is not just about goods and services; it’s about building bridges between economies and cultures."
