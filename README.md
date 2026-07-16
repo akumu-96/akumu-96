@@ -3,7 +3,7 @@
 [![GitHub Banner](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Esther+Makandah%2C+MBA%20%7C%20International+Trade%2C+Market+Access%2C+Nation+Branding)](https://github.com/akumu-96)
 
 ### 👩‍💼 About Me
-With a Master of Science in Applied Business Analytics and an MBA in Business Analytics from the University of West Georgia, I combine deep analytical expertise with practical engineering to solve high-stakes financial problems. My work spans predictive modeling, machine learning, real-time stream processing, and explainable AI, all applied to payment integrity, fraud detection, and risk mitigation.
+With a Master of Science in Applied Business Analytics and an MBA in Data Analytics from the University of West Georgia, I combine deep analytical expertise with practical engineering to solve high-stakes financial problems. My work spans predictive modeling, machine learning, real-time stream processing, and explainable AI,Data Analysis,Business Intelligence, all applied to payment integrity, fraud detection, and risk mitigation.
 
 I am currently developing and deploying a scalable, data-driven payment integrity system to prevent improper payments, reduce financial losses, and stimulate economic growth across U.S. financial transaction systems.
 
