@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Esther Makandah, MBA
+# Hi there 👋, I'm Esther Makandah, MBA,MS
 
 [![GitHub Banner](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Esther+Makandah%2C+MBA%20%7C%20International+Trade%2C+Market+Access%2C+Nation+Branding)](https://github.com/akumu-96)
 
@@ -7,7 +7,7 @@ With a Master of Science in Applied Business Analytics and an MBA in Business An
 
 I am currently developing and deploying a scalable, data-driven payment integrity system to prevent improper payments, reduce financial losses, and stimulate economic growth across U.S. financial transaction systems.
 
-- 🌍 Based in **Nairobi, Kenya**
+- 🌍 Based in **North Carolina**
 - 💼 Key projects:
 Retail Risk Radar: An AI-powered fraud detection and analytics platform, live at https://zionsecboarding.com.
 Scalable Predictive Risk Framework: A cloud-native, real-time payment integrity system using hybrid machine learning and stream processing.
