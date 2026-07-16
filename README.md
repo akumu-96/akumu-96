@@ -9,7 +9,7 @@ I am currently developing and deploying a scalable, data-driven payment integrit
 
 - 🌍 Based in **Nairobi, Kenya**
 - 💼 Key projects:
-Retail Risk Radar: An AI-powered fraud detection and analytics platform, live at retail-fraud.vercel.app and zionsecboarding.com.
+Retail Risk Radar: An AI-powered fraud detection and analytics platform, live at https://zionsecboarding.com.
 Scalable Predictive Risk Framework: A cloud-native, real-time payment integrity system using hybrid machine learning and stream processing.
 
 - 🔭 Published research includes:
