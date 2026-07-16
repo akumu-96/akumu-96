@@ -3,12 +3,23 @@
 [![GitHub Banner](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Esther+Makandah%2C+MBA%20%7C%20International+Trade%2C+Market+Access%2C+Nation+Branding)](https://yourportfolio.com)
 
 ### 👩‍💼 About Me
-I’m a **Marketing & International Trade Professional** with over a decade of experience in **branding, market access, stakeholder relationship management, and nation branding**. Passionate about driving **economic growth through exports, trade linkages, and strategic partnerships**, I specialize in connecting businesses to global opportunities and enhancing national competitiveness.
+With a Master of Science in Applied Business Analytics and an MBA in Business Analytics from the University of West Georgia, I combine deep analytical expertise with practical engineering to solve high-stakes financial problems. My work spans predictive modeling, machine learning, real-time stream processing, and explainable AI, all applied to payment integrity, fraud detection, and risk mitigation.
+
+I am currently developing and deploying a scalable, data-driven payment integrity system to prevent improper payments, reduce financial losses, and stimulate economic growth across U.S. financial transaction systems.
 
 - 🌍 Based in **Nairobi, Kenya**
-- 🎓 **MBA** with expertise in **International Trade & Market Access**
-- 💼 Focused on **export promotion, stakeholder engagement, and nation branding initiatives**
-- 🔭 Exploring **digital transformation in trade, data-driven market insights, and sustainable business models**
+- 💼 Key projects:
+Retail Risk Radar: An AI-powered fraud detection and analytics platform, live at retail-fraud.vercel.app and zionsecboarding.com.
+Scalable Predictive Risk Framework: A cloud-native, real-time payment integrity system using hybrid machine learning and stream processing.
+
+- 🔭 Published research includes:
+Proactive Fraud Prevention in Healthcare: A Deep Learning Approach
+AI-Driven Predictive Analytics for Fraud Detection in Healthcare
+Hybrid AI-Driven Threat Hunting for Financial Security
+Design of a Secure AI-Driven Adaptive Audit Transparency Engine
+
+I hold a government-registered copyright for an AI-powered fraud detection system and have presented my methodology at the ACCSA Global Conference 2026.
+
 - 📫 How to reach me: [Email] | [LinkedIn](https://www.linkedin.com/in/esther-makandah-mba-3b9901133)
 
 ---
