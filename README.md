@@ -20,7 +20,7 @@ Design of a Secure AI-Driven Adaptive Audit Transparency Engine
 
 I hold a government-registered copyright for an AI-powered fraud detection system and have presented my methodology at the ACCSA Global Conference 2026.
 
-- 📫 How to reach me: [Email] | [LinkedIn](https://www.linkedin.com/in/esther-makandah-mba-3b9901133)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/esther-makandah-mba-3b9901133)
 
 ---
 
